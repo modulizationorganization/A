@@ -8,7 +8,7 @@ use_frameworks!
 
 target 'A' do
 
-  pod "B_Category", :path => "../B_Category"
+  pod 'B_Category'
   pod 'HandyFrame'
  
 end
